@@ -30,3 +30,7 @@ It includes features such as:
 
 * R
 * ggplot2
+  
+## Key Insights
+- Found a relationship between track score and streaming counts  
+- Used statistical methods to analyze music popularity trends  
